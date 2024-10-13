@@ -4,11 +4,11 @@ This is the repository that contains source code for the [Nerfies website](https
 
 If you find Nerfies useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@inproceedings{Di2024FaceVid1KAL,
+      title={FaceVid-1K: A Large-Scale High-Quality Multiracial Human Face Video Dataset},
+      author={Donglin Di and He Feng and Wenzhang Sun and Yongjia Ma and Hao Li and Wei Chen and Xiaofei Gou and Tonghua Su and Xun Yang},
+      year={2024},
+      url={https://api.semanticscholar.org/CorpusID:273233717}
 }
 ```
 
