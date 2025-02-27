@@ -28,6 +28,8 @@ curated dataset, along with the pre-trained talking face video
 generation models, publicly available as a resource contribu-
 tion to hopefully advance the research field.
 
+Part of FaceVid-1K Dataset will be available at https://huggingface.co/datasets/jjuik2014/FaceVid-1K-partial
+
 If you find FaceVid-1K useful for your work please cite:
 ```
 @inproceedings{Di2024FaceVid1KAL,
