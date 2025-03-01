@@ -1,4 +1,4 @@
-# FaceVid-1K
+# DH-FaceVid-1K
 Generating talking face videos from various conditions has
 recently become a highly popular research area within gener-
 ative tasks. However, building a high-quality face video gen-
