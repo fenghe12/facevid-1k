@@ -1,34 +1,7 @@
-# FaceVid-1K
-Generating talking face videos from various conditions has
-recently become a highly popular research area within gener-
-ative tasks. However, building a high-quality face video gen-
-eration model requires a well-performing pre-trained back-
-bone, a key obstacle that universal models fail to adequately
-address. Most existing works rely on universal video or im-
-age generation models and optimize control mechanisms, but
-they neglect the evident upper bound in video quality due to
-the limited capabilities of the backbones, which is a result
-of the lack of high-quality human face video datasets. In this
-work, we investigate the unsatisfactory results from related
-studies, gather and trim existing public talking face video
-datasets, and additionally collect and annotate a large-scale
-dataset, resulting in a comprehensive, high-quality multiracial
-face collection named <b> FaceVid-1K</b> . Using this dataset, we
-craft several effective pre-trained backbone models for face
-video generation. Specifically, we conduct experiments with
-several well-established video generation models, including
-text-to-video, image-to-video, and unconditional video gen-
-eration, under various settings. We obtain the correspond-
-ing performance benchmarks and compared them with those
-trained on public datasets to demonstrate the superiority of
-our dataset. These experiments also allow us to investigate
-empirical strategies for crafting domain-specific video gen-
-eration tasks with cost-effective settings. We will make our
-curated dataset, along with the pre-trained talking face video
-generation models, publicly available as a resource contribu-
-tion to hopefully advance the research field.
+# DH-FaceVid-1K
+Generating talking face videos from various conditions has recently become a highly popular research area within generative tasks. However, building a high-quality face video generation model requires a well-performing pre-trained backbone, a key obstacle that universal models fail to adequately address. Most existing works rely on universal video or image generation models and optimize control mechanisms, but they neglect the evident upper bound in video quality due to the limited capabilities of the backbones, which is a result of the lack of high-quality human face video datasets. In this work, we investigate the unsatisfactory from related studies and collect and annotate a large-scale dataset, resulting in a comprehensive, high-quality digital human facial dataset named DH-FaceVid-1K. Using this dataset, we develop several effective pre-trained backbone models for face video generation, supporting tasks like text-to-video and image-to-video generation. We establish performance benchmarks and compare them with models trained on public related datasets to demonstrate the superiority of our dataset. These experiments enable us to explore empirical strategies for designing domain-specific video generation tasks in a cost-effective manner. We plan to make our curated dataset and pre-trained human face video generation models publicly available as a resource contribution, with the aim of advancing face-centric downstream tasks.
 
-Part of FaceVid-1K Dataset will be available at https://huggingface.co/datasets/jjuik2014/FaceVid-1K-partial
+Part of FaceVid-1K Dataset will be available at https://huggingface.co/datasets/jjuik2014/FaceVid-1K-Part
 
 If you find FaceVid-1K useful for your work please cite:
 ```
